@@ -33,10 +33,16 @@ This project showcases a 4-page interactive Power BI dashboard focused on busine
 
 ## Page 1
 <img width="876" height="496" alt="image" src="https://github.com/user-attachments/assets/a82694e4-60ec-4208-a24a-bdc89f0629c4" />
+
+
 ## Page 2
 <img width="874" height="490" alt="image" src="https://github.com/user-attachments/assets/4fc4eb80-6ac9-4e02-b082-23ebe8e28b05" />
+
+
 ## Page 3
 <img width="877" height="486" alt="image" src="https://github.com/user-attachments/assets/3d7ba920-03b5-425a-b372-2e3ab859f7a7" />
+
+
 ## Page 4
 <img width="876" height="481" alt="image" src="https://github.com/user-attachments/assets/74b0dbd3-0370-4885-ace3-606c48b7b078" />
 
